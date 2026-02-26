@@ -1,3 +1,6 @@
+このリポジトリは「プロンプトベースのIntent DAGコンパイラ」です。
+コードではなく、LLMに貼り付けるプロンプトで動作します。
+実行するにはGrok/ChatGPT/Claudeなどにprompt.mdの内容をコピーして使用してください。
 # ris-compiler-unified
 Natural language → Intent DAG judgment compiler
 # RIS Compiler Unified v1.2
